@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HaloTes</string>
+    <string name="poin">poin</string>
+
+    <string name="btn_retry">Ulangi</string>
+    <string name="btn_search">Cari</string>
+</resources>
